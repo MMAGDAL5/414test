@@ -1,0 +1,5 @@
+Hello, World!
+git add hello_world.txt
+git commit -m "Add Hello, World! example"
+git remote add origin <repository_url>
+git push -u origin master
