@@ -1,0 +1,18 @@
+
+form{
+	display: block;
+	width: 300px;
+	padding: 1em;
+	margin: 0 auto;
+	color: #222;
+	font-size: 1.1em;
+}
+input{
+ border-radius: 3px;
+}
+
+.inline{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
